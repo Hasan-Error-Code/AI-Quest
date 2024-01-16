@@ -17,6 +17,6 @@ elif mark >= 50 and mark < 55:
 elif mark >= 45 and mark < 50:
     print("Result: C        Grade: 2.25")
 elif mark >= 40 and mark < 45:
-    print("Result: C        Grade: 2.00")
+    print("Result: D        Grade: 2.00")
 else: 
     print("Result: F        Grade: 0.00")
