@@ -26,5 +26,5 @@ while True:
             print(f"After update {rmv} value, Result: {lis}")
         break
     elif user == 5:
-        print("You Chose 5 Break")
+        print("You Chose 5 Quite")
         break
