@@ -11,7 +11,7 @@ while True:
         break
     elif user == 3:
         print(lis)
-        rm = str(input("What you want to temove: "))
+        rm = str(input("What you want to remove: "))
         print("You Chose: 3 ",lis.remove(rm))
         print(f"After delete {rm}: ",lis)
         break
